@@ -44,7 +44,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/theyashdhiman04/3dWorld.git
+   git clone https://github.com/targter/3dWorld.git
    cd 3dWorld
    ```
 
@@ -231,10 +231,10 @@ This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE.
 
 ## 👤 Author
 
-**Yash Dhiman**
+**Dhiman**
 
-- GitHub: [@theyashdhiman04](https://github.com/theyashdhiman04)
-- Repository: [3dWorld](https://github.com/theyashdhiman04/3dWorld)
+- GitHub: [@Abhay Bansal](https://github.com/targter)
+- Repository: [3dWorld](https://github.com/targter/3dWorld)
 
 ---
 
@@ -248,7 +248,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE.
 
 <div align="center">
 
-**Made with ❤️ by Yash Dhiman**
+**Made with ❤️ by Abhay Bansal**
 
 ⭐ Star this repo if you find it helpful!
 
